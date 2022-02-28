@@ -1,0 +1,1144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders from the Lord of Hostes, for regulating the hostes of the Lord. Set down in a sermon preached at the leaguer before Newark, on Friday the 27th of March, 1646. By order from, and at the desire of the Committee of Lords and Commons, commissioners from the Parliament of England. Upon occasion of a publick fast and solemn humiliation, appointed to be kept that day throughout the English and Scotish armies before Newark, to seek a blessing from heaven upon the proceedings of the said forces in the present siege of that garrison. / By Edward Reyner preacher of the gospel in the city of Lincoln.</title>
+            <author>Reyner, Edward, 1600-1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 88 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91728</idno>
+            <idno type="STC">Wing R1222</idno>
+            <idno type="STC">Thomason E337_1</idno>
+            <idno type="STC">ESTC R200816</idno>
+            <idno type="EEBO-CITATION">99861452</idno>
+            <idno type="PROQUEST">99861452</idno>
+            <idno type="VID">113588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113588)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders from the Lord of Hostes, for regulating the hostes of the Lord. Set down in a sermon preached at the leaguer before Newark, on Friday the 27th of March, 1646. By order from, and at the desire of the Committee of Lords and Commons, commissioners from the Parliament of England. Upon occasion of a publick fast and solemn humiliation, appointed to be kept that day throughout the English and Scotish armies before Newark, to seek a blessing from heaven upon the proceedings of the said forces in the present siege of that garrison. / By Edward Reyner preacher of the gospel in the city of Lincoln.</title>
+                  <author>Reyner, Edward, 1600-1668.</author>
+               </titleStmt>
+               <extent>[8], 8, 7-29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Giles Calvert, at the black Spread Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>Annotation on Thomason copy: "May 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Deuteronomy XXIII, 14 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113588:1" rendition="simple:additions"/>
+            <pb facs="tcp:113588:1" rendition="simple:additions"/>
+            <p>ORDERS FROM THE LORD OF HOSTES, FOR Regulating the Hoſtes of the LORD.</p>
+            <p>Set down in a SERMON Preached at the LEAGUER before <hi>NEWARK,</hi> on Friday the 27<hi rend="sup">th</hi> of March, 1646.</p>
+            <p>By order from, and at the deſire of the Com<g ref="char:EOLhyphen"/>mittee of Lords and Commons, Commiſſioners from the Parliament of <hi>England.</hi>
+            </p>
+            <p>Upon occaſion of a publick Faſt and ſolemn Humiliation, appointed to be kept that day throughout the <hi>Engliſh</hi> and <hi>Scotiſh</hi> Armies before <hi>Newark,</hi> to ſeek a bleſſing from Heaven upon the proceedings of the ſaid Forces in the preſent Siege of that Garriſon.</p>
+            <p>By <hi>Edward Reyner</hi> Preacher of the Goſpel in the City of <hi>Lincoln.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. W.</hi> for <hi>Giles Calvert,</hi> at the black Spread Eagle at the Weſt end of <hi>Pauls,</hi> 1646.</p>
+         </div>
+         <div type="approbation">
+            <pb facs="tcp:113588:2"/>
+            <p>I have peruſed this Sermon tending much to the advancement of <hi>Military Holineſſe, and Order,</hi> and (with theſe) the ſucceſſe of this preſent Warre; and do therefore conceive it very uſefull for the publick, eſpeciall the Armies.</p>
+            <closer>
+               <signed>IOSEPH CARYL.</signed> 
+               <dateline>
+                  <date>
+                     <hi>April</hi> 16<hi rend="sup">th</hi> 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113588:2"/>
+            <head>To the Right Honourable, IOHN Earl of <hi>Rutland,</hi> EDWARD Lord <hi>Montague,</hi> M. WIL. PIERREPONT <abbr>Eſq</abbr> Sir WILL. ARMYNE <hi>Baronet,</hi> Sir EDWARD AYSCOUGH Knight, and THOMAS HATCHER <abbr>Eſq</abbr> Com<g ref="char:EOLhyphen"/>miſſioners from the Parliament of <hi>England,</hi> reſiding with the For<g ref="char:EOLhyphen"/>ces before <hi>Newarke.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His Sermon, for the ſubſtance of it, was preached by your appointment, and is drawn forth to publick view by your importunity. I have been oft aſſayled by friends to publiſh ſome pieces, which coſt me more pains, but could never be overcome till now. I am ſenſible of the curioſity and critical<g ref="char:EOLhyphen"/>neſſe of the Times, and of my own tenuity and inſuffi<g ref="char:EOLhyphen"/>ciency. I am able to bring nothing out of my poor Treaſury which may ſeem new. Thoſe ſmall abili<g ref="char:EOLhyphen"/>ties God hath given me to profit others, lye another way, rather through the Pulpit then the Preſſe; there<g ref="char:EOLhyphen"/>fore durſt I never yet appear in the one, though often in the other.</p>
+            <p>
+               <pb facs="tcp:113588:3"/>
+Concerning this Copy I may ſay, here is not all, and yet more then was there delivered.</p>
+            <p>Not all, becauſe my time for preparation was very ſmall, and my Notes ſo ſhort, that they cannot poſſi<g ref="char:EOLhyphen"/>bly give an account of my Sermon; and my memo<g ref="char:EOLhyphen"/>ry not ſo good as to recollect all that God was graci<g ref="char:EOLhyphen"/>ouſly pleaſed then to ſuggeſt.</p>
+            <p>Yet is here more, becauſe I have now added ſome things for amplification of particulars, which God brought to my hand while I was writing, as he did many things before to my minde, while I was ſpeaking.</p>
+            <p>Such were my ſtraits of time for preparation to that exerciſe, as one part of this Sermon was, ſubitane thoughts in the morning of that day they were prea<g ref="char:EOLhyphen"/>ched: which I did not intend ſhould have ſeen more light, then came in at the chamber window, where I quartered that night.</p>
+            <p>The Notes are not ſo warm to me now in writing, as they were then in ſpeaking; nor will they, I fear, be to any in reading, as they were, I hope, to ſome in hearing. Speaking and Writing have their ſeverall graces and gloſſes; and take, as God is pleaſed to ſet them on by his preſence and influence, which he uſu<g ref="char:EOLhyphen"/>ally ſheds abroad more abundantly in the publick Or<g ref="char:EOLhyphen"/>dinance. The ſame things (experience ſhews) which while ſpoken, ſeemed ſtirring paſſages, afterwards when read, move little.</p>
+            <p>Beſides, the ſubject of this diſcourſe is now become very trite, and worn I ſuppoſe almoſt out of requeſt; of which ſo much hath been already ſaid, as nothing can be added.</p>
+            <p>But your Honours acceptance of my poor pains then,
+<pb facs="tcp:113588:3"/>and earneſt deſire ſince, to have a Copy thereof, have forced me to put this into your hands; do with it whatſoever God ſhall put into your hearts: either to bury it in ſilence (which would pleaſe me beſt) or to give breath and life to it by the birth of the Preſſe, if your wiſdome judge it worthy, and that it may be for publike uſe.</p>
+            <p>The Lord guide you with his councell, that the publike affairs may ſtill proſper in your hands, and bring you to his glory when you have ſerved your ge<g ref="char:EOLhyphen"/>neration, according to the will of God. So prayes</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours humble ſervant in the Goſpell of Chriſt,</hi>
+EDW. REYNER.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:113588:4"/>
+            <head>TO THE Honourable, Col. EDW. ROSSETER, Commander in chief of the PARLIAMENTS Forces of the City and County of LINCOLN.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He next intereſt to that, the Committee of Lords and Commons now with us, may challenge in this Sermon, is deſervedly yours, becauſe preached in your Quarters, to you and your Souldiers, and for your ſakes eſpecially; to bring God and you near together, even God into your Camp, and your Camp unto God; to direct and excite your duty to God, to draw down and ingage Gods preſence with you, and that the Countries Cauſe and Cure (in the great work you are now about) may proſper in your hands. For if you can ſay to our enemies as <hi>Abijah</hi> did to his:
+<note place="margin">2 Chro. 13 12.</note> 
+               <hi>Behold God himſelf is with us, for our Captain, and his Prieſts with ſounding Trumpets to cry Alarm againſt you,</hi> you may ſay on (as he did) <hi>O enemy fight not againſt the Lord, for you ſhall not proſper.</hi> If your Camp be reformed, and you cannot bear them that are evill in it, ſurely the Lord will pitch his Tents in the midſt of yours, and make you glorious by ſucceſſes.</p>
+            <p>When poor Lincolnſhire was in a low and ſad condition, making approaches daily nearer deſolation, God raiſed you up as <hi>Gideon</hi> a mighty man of valour to ſave us; giving
+<pb facs="tcp:113588:4"/>you not only <hi>Decertandi fortitudinem,</hi> but <hi>Decernendi rationem,</hi> Valour to fight, and prudence to adviſe. For courage without counſell, is like a Hand drawing a Bow, without an eye to ſet the Arrow right.</p>
+            <p>Sir, the mixture of amiable clemency, and inſuperable valour, of modeſty and magnanimity, of piety and ſouldiery, of courteous condeſcentions and ſublime reſolutions, which God hath made and tempered in you, is very remarkable. Me thinks I ſee thoſe vertues which the Orator preſcribes in an Emperour, worn as Gold-rings on all your fingers, <hi>Scil.</hi>
+               <note place="margin">Haeſunt vit<g ref="char:EOLhyphen"/>tute<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Impe<g ref="char:EOLhyphen"/>ratoria, la<g ref="char:EOLhyphen"/>bor in neg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tin, forticu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o in pericul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, induſtria in agendo, ce<g ref="char:EOLhyphen"/>leritas in conficiende, conſiltum in previdende. <hi>Cicero pro lege Manil.</hi>
+               </note> Diligence in buſineſſe, courage in perils, induſtry in acting, celerity in effecting, counſell in foreſeeing.</p>
+            <p>This I ſpeak, not to flatter you in print (for I remember <hi>Elihu's</hi> ſpeech, <hi>Job 32.21, 22.</hi>) but to give you (as I ap<g ref="char:EOLhyphen"/>prehend) your due; and to provoke you to give God the glo<g ref="char:EOLhyphen"/>ry of all you are, have, or do; and to adde to all your excel<g ref="char:EOLhyphen"/>lencies habituall and practicall, Humility and Self-deniall, as the grace and ornament of them all.</p>
+            <p>Be often thinking that the Holy Ghoſt is putting theſe Queries to you, which <hi>Paul</hi> did to the <hi>Corinthians,
+<note place="margin">1 Cor. 4.7.</note> Who makes thee to differ from another? what haſt thou that thou didſt not receive?</hi> God is the author of all diſ<g ref="char:EOLhyphen"/>criminating gifts, Graces, States, Succeſſes. Let the high praiſes of God be in your mouth, becauſe the high acts of God have been in your hand.</p>
+            <p>Go on, worthy Leader; in this your might; <hi>Scil.</hi> in ha<g ref="char:EOLhyphen"/>ving God for your wiſdome, courage, and ſtrength. Ride on proſperouſly becauſe of the greatneſſe of your truſt, and the goodneſſe of your cauſe. Perfect what you have begun. Your buſineſs which before lay ſcattered all this Countrey over, &amp; over divers other Countries alſo, you have now brought into a ſmall compaſſe. (having driven your Antagoniſts as it were into a fold) The good Lord perfect the work for you and us,
+<pb facs="tcp:113588:5"/>and ſtabliſh peace againe upon our borders.</p>
+            <p>Bleſſed be God for the marvellous things done for this ſinking (well-nigh ruined) Kingdome, and for our poor ſpoi<g ref="char:EOLhyphen"/>led Countries by the Heads of our Worthies, the ſonnes of Honour that have ſate in counſell: and by the hands of you and others, the ſonsof Valour, that have been imployed in action; by whom (as choice inſtruments in Gods hand) mighty things are brought to paſſe, even as it were a new Reſurrection of our Kingdome (and poor countrey in ſpeciall) out of the duſt of ruine and trampling upon, and a reduction of enemies into our room. My feeble prayers are Militant for you and all yours, daily that you may triumph; and want no counſell, nor ſtrength, nor ſucceſſe which Heaven can af<g ref="char:EOLhyphen"/>ford you. The Lord recompence into your boſome ſevenfold, all your diligence and faithfulneſſe; your indefatigable pains night and day; extream hazards, looking death oft in the face; and your ſore hardſhip, ſerving the neceſsities of war: He continue to bleſſe you and all under your com<g ref="char:EOLhyphen"/>mand, and make you ſtill a bleſsing to your native Countrey, and give you for your reward what he hath promiſed, to him that overcommeth.
+<note place="margin">Rev. 2 17.</note> Even the <hi>White ſtone, and new name written, which no man knowes ſave he that re<g ref="char:EOLhyphen"/>ceiveth it, and hidden Manna to eat.</hi>
+            </p>
+            <closer>
+               <signed>So prayes he who is affectionately yours to ſerve you in the Goſpel, EDW. REYNER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:113588:5"/>
+            <head>Orders from the LORD of <hi>Hoſtes,</hi> FOR Regulating the <hi>Hoſtes</hi> of the LORD.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Deut. 23.14.</hi>
+                  </bibl>
+                  <p>For the Lord thy God walketh in the midſt of thy Camp to deliver thee, and to give up thine enemies before thee: therefore ſhall thy Camp be holy, that he ſee no unclean thing in thee, and turn away from thee.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">G</seg>OD requires his Iſrael ſhould be a holy people, as at home, ſo abroad: not in times of Peace only, but of War alſo. Becauſe then, humane laws are ſilent — <hi>Silent loges inter arma;</hi> and things are carried uſually by force and vio<g ref="char:EOLhyphen"/>lence, not by reaſon or right. Men take li<g ref="char:EOLhyphen"/>berty to commit outrages greedily and ſhameleſly. Wherefore
+<pb n="2" facs="tcp:113588:6"/>God gave this command for the purity and ſanctity of Iſraels army or ſouldiery, for the decent and well-ordering of Iſraels Camp, to prevent all pollution and exorbitancy therein.—<hi>Thy Camp ſhall be holy, &amp;c.</hi>
+            </p>
+            <list>
+               <head>In the Text you may diſcern.</head>
+               <item>1. A doctrine delivered.</item>
+               <item>2. Reaſons added to confirme and enforce it.</item>
+            </list>
+            <p>The Doctrine is this.</p>
+            <p>
+               <hi>The Camp of Iſrael muſt be holy.</hi>
+            </p>
+            <p>
+               <hi>The Camp.]</hi> The originall word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies both <hi>Caſtra</hi> and <hi>Acies,</hi> or <hi>Turba:</hi> That is Tents where the ſouldiers lay. And an Army, a Camp is an Hoaſt or Army of ſouldiers, which is as it were a walking Town, City, or Countrey: it doth further ſig<g ref="char:EOLhyphen"/>nifie Tents pitcht for them, or an army lodged. The people of Iſrael were the Hoſts of the Lord, Gods Armies; and this is the precept of the Lord of Hoſts, the God of Iſrael, that their Camp ſhall be holy, that is, both the place and the perſons.</p>
+            <p>
+               <hi>Shall be holy,]</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that is, ſet apart for an holy uſe, and ſe<g ref="char:EOLhyphen"/>parated or preſerved pure from all pollution of fleſh and ſpirit.</p>
+            <p>Holineſſe is either Morall or Ceremoniall.</p>
+            <p>Morall, is twofold
+<list>
+                  <item>1. Privative, that is, Immunity, or purity from ſin.</item>
+                  <item>2. Poſitive holineſſe is
+<list>
+                        <item>1. Grace, in Habit.</item>
+                        <item>2. Obedience in Act.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>When God is known, feared, ſerved, obeyed truſted, and ſin is hated and eſchewed; when there is the root of grace in the heart, and the fruit of righteouſneſſe in the life, then is a perſon or people holy.</p>
+            <p>
+               <pb n="3" facs="tcp:113588:6"/>
+Ceremoniall holineſſe was a freedome or purification from Uncleanneſſes
+<list>
+                  <item>1. Legall, as Nocturnall pollutions, <hi>ver.</hi> 10.11. or contracted by leproſie, or having an iſſue, or touching the dead, <hi>Numb.</hi> 5.2. <hi>Lev.</hi> 21.1.</item>
+                  <item>2. Civill, as mans excrements, which was legall alſo to the Jewes. For God made a law againſt it, that uncleanneſſe by it ſhould be avoided in the Hoſt, <hi>ver.</hi> 12, 13.</item>
+               </list>
+            </p>
+            <p>My Text comes in as a Reaſon to preſſe and perſwade purity, from that (as from all all other defilements) in the Camp and Hoſt of Iſrael. <hi>Thou ſhalt have a place without the camp, &amp;c. v.</hi> 12.</p>
+            <p>
+               <hi>Thou ſhalt have a paddle.]</hi> that is, an iron inſtrument to dig an hole in the earth to bury their excrements in, <hi>v.</hi> 13.</p>
+            <p>Why ſo? <hi>For the Lord thy God walks in the midſt of thy camp, &amp;c.</hi> Mans dung by the law was counted unclean, and it defiled not only the place where it was laid uncovered, but whatſoever thing it was uſed about, as to bake Cakes therewith through want of other fewell, <hi>Ezek.</hi> 4.12, 13, 14.</p>
+            <p>All theſe kindes of Ceremoniall uncleanneſſes figured ſpirituall or morall pollutions by ſin, of our natures and actions.</p>
+            <p>The camp of Iſrael was to be holy both
+<list>
+                  <item>Morally, no wickedneſſe might be committed in it.</item>
+                  <item>Ceremonially, all legall uncleanneſſe muſt be excluded out of it.</item>
+               </list>
+            </p>
+            <p>Hereby God taught Iſrael holineſſe both of diſpoſition and converſation, to keep both their bodies and ſoules pure from all their iniquities.</p>
+            <p>God begins his charge (or to give orders) to the army of Iſra<g ref="char:EOLhyphen"/>el at the 9. verſ. <hi>When the Hoſt goeth forth againſt thine enemies, then keep thee from every wicked thing:</hi> that is, from all unclean<g ref="char:EOLhyphen"/>neſſe morall or ceremoniall. Therefore God gave command to the children of Iſrael,</p>
+            <p>
+               <pb n="4" facs="tcp:113588:7"/>
+That
+<list>
+                  <item>1. The whole Camp of Iſrael ſhould be purged of all Lea<g ref="char:EOLhyphen"/>pers and any other way unclean perſons, both Male and female, <hi>Numb.</hi> 5.2, 3, 4.</item>
+                  <item>
+                     <note place="margin">Ainſworth.</note> There were three Camps (as one obſerves)
+<list>
+                        <item>1. The Sanctuary call'd the Camp or Tents of the Lord, 2 <hi>Chron.</hi> 31.2.</item>
+                        <item>2. The Camp of the Levites, <hi>Num.</hi> 3.</item>
+                        <item>3. The Camp of Iſrael, the 12 Tribes, <hi>Num.</hi> 2.</item>
+                     </list>
+                  </item>
+                  <item>No unclean perſon might enter into the Camp of the Lords Sanctuary, that being moſt holy, 2 <hi>Chro.</hi> 23.19.</item>
+                  <item>Nor ſtay in (but was to be put out of both) the Camp which
+<list>
+                        <item>Pitcht about the Sanctuary.</item>
+                        <item>And which went to war againſt their enemies.</item>
+                     </list>
+                  </item>
+                  <item>2. A place ſhould be deſigned without the Camp wherein to bury their excrements, <hi>verſ.</hi> 12.</item>
+               </list>
+            </p>
+            <p>Thus have I laid out the Doctrine, <hi>vid. The camp of Iſrael muſt be holy;</hi> and the ſenſe of the tearms, <hi>ſcil.</hi> what is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>qant by <hi>Camp,</hi> and what by <hi>Holy.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> But, why ſhould Iſraels Camp be holy?</p>
+            <p>
+               <hi>Anſw.</hi> Take a ſhort view, I pray you, of the reaſons laid down in my text to prove the point, and proſſe the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty. The reaſons are five.</p>
+            <p>
+               <hi>Reaſon</hi> 1. Becauſe God is preſent in the camp of Iſrael; the Lord of Hoſts is with his Hoſts, even with the armies of Iſrael, where ever they go; therefore ſhall their camp be holy, becauſe <hi>He is a God of purer eyes then to behold evill,</hi>
+               <note place="margin">Hab. 1.13.</note> and he cannot look on iniquity. He is not a God that hath <hi>pleaſure in wickedneſſe, wither ſhall evill dwell with him.</hi>
+               <note place="margin">Pſal. 5.14.</note> Mark the phraſe—<hi>The Lord walks in the midſt of thy camp,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> it imports both the matter and manner of Gods preſence.</p>
+            <p>—The matter of it, That he is there preſent in the Camp.</p>
+            <p>—The manner thereof, How he is God there?</p>
+            <p n="1">1. He walks, not ſtands, is not idle there. God neither ſtands ſtill in the Camp, nor ſtayes behinde, but goes along with them. The Originall word is very emphaticall <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in <hi>Hithpael.</hi>
+               <pb n="5" facs="tcp:113588:7"/>Verbs in that Conjugation (as the ſtudious in that tongue ob<g ref="char:EOLhyphen"/>ſerve) do connocate a reciprocation or reiteration of action, and intimate a frequency thereof. <hi>Tremellius</hi> tranſlates the word, <hi>indefinenter ambulare,</hi> to walk aſſiduouſly, continually, without ceaſing (to expreſſe the emphaſis of the conjugation) ſo walks God in Iſraels Campe.</p>
+            <p>But whereabout, or in what part thereof?</p>
+            <p n="2">2. He walks in the <hi>midſt of their camp,</hi> not in the Front only, as not knowing what is behinde; nor in the Rear only, as not knowing what is before; but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in the midſt;</hi> the word ſig<g ref="char:EOLhyphen"/>nifies alſo the moſt inward parts of intrals, as belly, heart, bow<g ref="char:EOLhyphen"/>els, reins. God walks in the midſt, that is, in the boſome, heart, bowels, reins, of Iſraels army. He walks in and through all theſe. Therefore the Camp of Iſrael had need be holy, even <hi>in<g ref="char:EOLhyphen"/>tus, &amp; in cute, &amp; in corde,</hi> at the heart, to the bottome, and throughout.</p>
+            <p>
+               <hi>Object.</hi> Did not God walk all over Iſraels Camp? was not be in every part, as Van, and Rear, and midſt, or heart, which is the Head Quarters: <hi>Totus in toto</hi> all in all throughout the Camp? He fils Heaven and Earth, and not Iſraels Camp only? Why then is God ſaid to walk in the midſt thereof?</p>
+            <p>
+               <hi>Anſw.</hi> For two reaſons as I conceive.</p>
+            <p n="1">1. To declare his perfect knowledge of, and acquaintance with all Iſraels affairs, and behaviour: what be their councels and acti<g ref="char:EOLhyphen"/>ons, purpoſes and projects, ends and aims, God is in the heart of them all: and privie to all, even what they either do in the dark, or ſpeak in their Tents, or think in their hearts, <hi>Pſal.</hi> 139.1. to 6.</p>
+            <p n="2">2. Becauſe the Ark, which was the ſigne and pledge of Gods ſpeciall preſence with Iſrael was placed in the midſt of the Camp of Iſrael, <hi>Num.</hi> 2.2.17. and 10. <hi>ch.</hi> 14.21. All the Tribes were as a great army round about the Tabernacle
+<note n="*" place="margin">The order of Iſraels Camp is de<g ref="char:EOLhyphen"/>ſcribed in <hi>Numb</hi> 2. thus, <hi>Iudah, Iſſachar,</hi> &amp; <hi>Zabulon,</hi> encamped on the Eaſt of the Tabernacle, <hi>v.</hi> 3.10. <hi>Eph<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>im, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> on the Weſt, <hi>v.</hi> 18 to <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> on the North, <hi>v</hi> 23, to 32. The Levites encamped next unto the Tabernacle between it and the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, in 4 quarters, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>.</hi> 3. thus. <hi>Moſes, Aaron,</hi> and the Prieſts encamped before the Tabernacle eaſtward, <hi>v.</hi> 38. The <hi>Gorr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>res</hi> behinde it weſtward, <hi>v.</hi> 23. The <hi>Ro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>thites</hi> on the Southſide, v. 29. The Levites of <hi>Merari</hi> on the north ſide, <hi>verſ.</hi> 35.</note> (which marched and incamped in the midſt) for the defence thereof.</p>
+            <p>
+               <pb n="6" facs="tcp:113588:8"/>
+               <hi>Object.</hi> But the Ark of the Covenant is ſaid in <hi>Numb.</hi> 10.33. to go before Iſrael to ſearch out a reſting place for them, if before them, then not in the midſt.</p>
+            <p>
+               <hi>Anſw.</hi> Not as if the Ark went in the head of the army, for the Levites carried it in the midſt of the Tribes, <hi>Numb.</hi> 10.14, 21. But its ſaid to journey before them, becauſe Iſraels journeyes were guided by the Ark and the cloud that reſted upon it, when to move, and when to reſt. Whether to ſet forward, or to pitch their tents. From the Ark God gave orders for all their mar<g ref="char:EOLhyphen"/>ches or motions, &amp; reſts in the Wilderneſſe. So much of the firſt Reaſon, <hi>Iſraels camp muſt be holy,</hi> becauſe, <hi>the Lord walks in the midſt of it.</hi>
+            </p>
+            <p>
+               <hi>Reaſ.</hi> 2. (Which ſhould have been the firſt) becauſe God ow<g ref="char:EOLhyphen"/>ned Iſrael for his <hi>Ammi</hi> or peculiar people, and acknowledged himſelf to be their God by Covenant or ſpeciall right and rela<g ref="char:EOLhyphen"/>tion.
+<note place="margin">Hoſ. 2.1.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Jehovah,</hi> thy <hi>Elohim,</hi> thy <hi>Almighties.</hi> The Trinity of perſons is thine, <hi>O Iſrael.</hi> Now the Lord is a holy God, and a holy God deſires after, and delights in a holy peo<g ref="char:EOLhyphen"/>ple, therefore ſhall thy camp be holy.</p>
+            <p>
+               <hi>Reaſ.</hi> 3. Becauſe of Gods protection of Iſrael from their ene<g ref="char:EOLhyphen"/>mies, and conqueſt over their enemies for them. God walked not in the midſt of Iſraels camp, <hi>tanquam otioſus ſpectator,</hi> as an idle looker on, but
+<list>
+                  <item>1. As a Saviour to deliver them from the hands of their enemies.</item>
+                  <item>2. As a conquerour to deliver up their ene<g ref="char:EOLhyphen"/>mies before their face, or into their hands.</item>
+               </list>
+            </p>
+            <p>Are not theſe ingagements to holineſſe and obedience through<g ref="char:EOLhyphen"/>out the camp of Iſrael?</p>
+            <p>
+               <hi>Reaſ.</hi> 4. Becauſe any wickedneſſe in the camp is nakedneſſe. Compare <hi>v.</hi> 9 with 14. <hi>When the Hoſt goes forth, keep thee fro<g ref="char:cmbAbbrStroke">̄</g> eve<g ref="char:EOLhyphen"/>ry wicked thing</hi>—and here, <hi>that he ſee no unclean thing in thee.</hi>
+               <pb n="7" facs="tcp:113588:8"/>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, the nakedneſſe of any thing. Nakedneſſe is uncomely, filthy, reproachfull, ſhamefull, expoſed to all danger. Every wicked thing ſuffered in Iſraels camp did defile it, &amp; deveſt it, or make it unclean and naked to its ſhame and ruine.</p>
+            <p>
+               <hi>Reaſ.</hi> 5. Becauſe if there be any uncleannes or wicked thing in an army God will ſee it, though never ſo ſecret: as he did <hi>Achans</hi> plundered ſtuffe, though hid in the earth in the midſt of his tent.— <hi>Therefore ſhall thy camp be holy, that he ſee no unclean thing in thee.</hi>
+               <note place="margin">Ioſh. 7.21.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that he do not ſee in thee the nakeedneſſe or fil<g ref="char:EOLhyphen"/>thineſſe of any thing: <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies not ſimply to ſee, but <hi>curio<g ref="char:EOLhyphen"/>ſe inſpicere,</hi> to look very diligently. So doth God for ſin, even in an army. What evill is there, is commited in the very ſight and preſence of God, (a great aggravation thereof) for he hath an All-ſeeing eye.</p>
+            <p>
+               <hi>Reaſ.</hi> 6. Laſtly, becauſe ſin in the camp will drive God out of the camp; the ſight of unclean things in Iſrael will make him turn away from Iſrael, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> from after thee, <hi>i.e.</hi> from following, accompanying, watching, keeping, benefiting, magnifying thee, <hi>therefore ſhall thy camp be holy.</hi>
+            </p>
+            <p>So much for the Analyſis and explication of the Text. From the words we may gather.</p>
+            <p n="1">1. One generall doctrine as the ſum and ſcope of the text.</p>
+            <p n="2">2. Some particular inſtructions, as inferences from the text.</p>
+            <p>The generall Doctrine is this:</p>
+            <p>
+               <hi>It is the duty and glory of an army to be holy,</hi> that is, to keep themſelves from every wicked thing, to ſuffer no uncleanneſſe, fil<g ref="char:EOLhyphen"/>thineſſe, or prophaneneſſe to come or ſtay among them. There<g ref="char:EOLhyphen"/>fore this was given as a law to the Camp of Iſrael, to be holy; which ſtands ſtill in force for the morall-regulating of all armies, eſpecially thoſe which fight the Lords battels, or under his ban<g ref="char:EOLhyphen"/>ner; and go forth in his Name againſt their enemies. God re<g ref="char:EOLhyphen"/>quires they ſhould have a care of Holineſſe, not only in their per<g ref="char:EOLhyphen"/>ſons, and domeſticall, politicall, or Eccleſiaſticall relations and
+<pb n="8" facs="tcp:113588:9"/>ſocieties, but in their martiall combinations alſo: they ſhould be holy not only as Maſters and Servants, as Miniſters, and People, as Magiſtrates and Subjects, but as Commanders and Souldiers; they ſhould be not only a holy Family, or a holy Church or Com<g ref="char:EOLhyphen"/>mon wealth, but a holy Army alſo.</p>
+            <p>To this end God appointed the Prieſts to go along with Iſraels army, <hi>Deut.</hi> 20.1, 2, 3. 2 <hi>Chra.</hi> 13, 10, 11, 12. with the holy Trum<g ref="char:EOLhyphen"/>pets. <hi>Numb.</hi> 10.9. &amp; 31.6. as well to inſtruct and excite them to their duty towards God, as to encourage them to fight the Lords battels againſt his and their enemies. <hi>Iohn Baptiſt</hi> teach<g ref="char:EOLhyphen"/>eth ſouldiers their duties, <hi>Luke</hi> 3.14. which are branches of ho<g ref="char:EOLhyphen"/>lineſſe and obedience, <hi>Do violence to no man, neither accuſe any falſly, be content with your wages.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> Why ſhould our Armies be holy?</p>
+            <p>
+               <hi>Anſw.</hi> The ſame Reaſons conclude the neceſſity of Holi<g ref="char:EOLhyphen"/>neſſe for ours, that did for Iſraels. I will not repeat them, only the firſt, and adde ſome more.</p>
+            <p>
+               <hi>Reaſ.</hi> 1. Becauſe of Gods ſpeciall preſence in an Army that fights under his banner, the name of it may be <hi>Jehovah Sham<g ref="char:EOLhyphen"/>mah, The Lord is there.</hi> Look upon the Ark in the midſt of the Camp of Iſrael. Now God will be ſanctified in all that draw near him, <hi>Lev.</hi> 10.3. Be ſanctified, <hi>ſcil.</hi> by holy, upright, reveren<g ref="char:EOLhyphen"/>tiall carriage, in all that approach his preſence, as well Souldiers as Miniſters, in times of war, as of peace. He is the holy, holy, holy, Lord God Almighty; therefore where ever he comes, ſin muſt be gone or he will not ſtay. God delights to manifeſt his preſence where he ſees holineſſe promoted. Gods goings are glorious; as in the Sanctuary when it is purged and kept clean; Chriſt walks in the midſt of the Churches when thoſe Candle<g ref="char:EOLhyphen"/>ſticks are of pure gold, <hi>Rev.</hi> 1.12, 13. So in the Army, when it is well ordered, God walks in the midſt of it: when the Camp is holy, then God doth wondrous things, and puts forth the ex<g ref="char:EOLhyphen"/>cellency of his power, wiſdome, and goodneſſe for his people: out-witting their enemies, wherein they do craftily, and over<g ref="char:EOLhyphen"/>powring them wherein they deal proudly and cruelly.</p>
+            <p>
+               <pb n="7" facs="tcp:113588:9"/>
+Becauſe holines becomes every Perſon, and thing, that is Gods,
+<note place="margin">Reaſ. 2.</note> that bears the ſtamp or character of God upon them, or that relate to God, as Gods Church and Temple, 1 <hi>Cor.</hi> 3.17. Gods Houſe, <hi>Pſ.</hi> 93.5. Gods Miniſters, 2 <hi>Tim.</hi> 2.21, 22. and Gods Magiſtrate, 2 <hi>Sam.</hi> 23.5. and all Gods people, 1 <hi>Pet.</hi> 2.9. <hi>Titus</hi> 2.11, 12. So Gods Hoſts, Camps, Armies; his Warriours, and Souldiers. Holineſſe is an or<g ref="char:EOLhyphen"/>nament as proper and comely for Souldiers and Armies, as for any other of Gods Servants or Societies. They that fight the Lords battle ought to be holy, as well as they that bear the Lords veſſels. Compare <hi>Eſay</hi> 52.11. with 1 <hi>Sam.</hi> 25.28. Its prophecied concern<g ref="char:EOLhyphen"/>ing the latter times in <hi>Zach.</hi> 14.20, 21. <hi>That there ſhall be upon the Horſes bridles, HOLINES UNTO THE LORD,</hi> in great Letters; much more upon the Riders hearts; and that <hi>e<g ref="char:EOLhyphen"/>very pot in Jeruſalem and Judah ſhall be Holineſſe unto the Lord:</hi> much more ſhould the drinkers be holy. Holineſſe is a Characteri<g ref="char:EOLhyphen"/>ſticall diſtinguiſhing Mark of thoſe that are the Lords in all the premiſed Relations, from all others. Beſides, God will ſee and own, commend and reward Holineſſe in an Army, in any corner of it, or perſon in it, as ſoon as he wil ſpy any uncleanneſſe there, to de<g ref="char:EOLhyphen"/>teſt it and puniſh it. God is as ready to obſerve what is good in his people, as to mark what is amiſſe among them. Yea, hee will over<g ref="char:EOLhyphen"/>look many infirmities, where he ſees ſome ſanctity and ſyncerity.</p>
+            <p n="3">3 Becauſe though mens lawes be then ſilent,
+<note place="margin">Reaſ. 3.</note> yet Gods Law which commands Holineſſe, ſtands in force in time of war, as full as in time of peace; and in Armies as well as any where elſe. God will not hold ſouldiers guilteſſe, if they take his Name in vain, if they ſwear, curſe, blaſpheme, oppreſſe, rob, be drunk, commit uncleanneſſe, no more then any others that offend. Though the Laws of the Kingdome be then laid aſide, and the Laws of Military Diſcipline be not ſet up; yet even then Gods Law hath a ſtrong Tye upon all the Conſciences of Commanders and Souldiers, to obliege them unto holineſſe and obedience, under the penalty of eternall perdition. Let ſuch as think themſelves law<g ref="char:EOLhyphen"/>leſſe, or at liberty to live as they liſt now, becauſe they are Souldiers, and this is a Time of War; I ſay let ſuch prove, if they can, out of Gods Word (by which they ſhall all be judged another day) that God ever gave a Diſpenſation or Toleration to an Army or any in it, whether Officers or common Souldiers to be diſordered, looſe,
+<pb n="8" facs="tcp:113588:10"/>baſe, outragious or injurious in their Courſes; or to be in any kinde or degree more vile and ſinfull then other men; or to be leſſe care<g ref="char:EOLhyphen"/>full to feare God and keep his Commandements, to ſeek after and ſet up Jeſus Chriſt, to eſchew evill and do good in times of Warre, then of Peace.</p>
+            <p>Becauſe there is death in the Campe.
+<note place="margin">Reaſ. 4.</note> Souldiers Carry their lives in their hands, and look death in the face daily; they had need be holy, if they would be happy, <hi>For without Holineſſe no man</hi> (not a Souldier no more then any other man) <hi>ſhall ſee the Lord, Heb.</hi> 12.14. Souldiers ſtand in moſt need to be very Holy Men, becauſe they may be taken away very Suddainly; and to have aſſurance of a better life becauſe their preſent life hangs in ſuſpence night and day. They cannot be in a Capacity of happineſſe or in preparation for death, untill they bee in a Poſture of Holineſſe.</p>
+            <p>Becauſe a holy Army is victorious and ſuccesfull.
+<note place="margin">Reaſ. 5.</note> I do not mean when all and every one in an army is truly Godly, for the beſt Ar<g ref="char:EOLhyphen"/>mies that ever were, were never ſo good; but, <hi>Denominatio eſt à Potiori:</hi> when the Commanders (Some of them at leaſt) and a Con<g ref="char:EOLhyphen"/>ſiderable part among the Souldiers are holy; Such as can pray as well as fight, and doe take Care to maintain Peace with God, while they are in warre with Men; to decline Tentations to ſin, as they would doe bullets or Thruſts that Come from their Ene<g ref="char:EOLhyphen"/>mies. That a Holy army is victorions ſee the Experiment hereof—in <hi>Iſrael,</hi> in the dayes of <hi>Ioſhua</hi> 23.8, 9, 10.—<hi>They did cleave unto the Lord their God to this day, (ſayth Joſhua) therefore God drave out from before them great and ſtrong Nations, and as for them no man hath been able to ſtand before them unto this day.</hi>—See the like in <hi>Iudah,</hi> in the days of the Pious Kings, as <hi>David, Aſa, Ieho<g ref="char:EOLhyphen"/>ſaphat, Hezekiah.</hi> What glorious ſucceſſes hath God given when Commanders have been Vertuous? — in <hi>Marcus Aurelius</hi> his Army which had a Legion of Chriſtians in it, who by their prayer to God (at the Emperours intreaty, when the whole Army was in danger to periſh through drought) obtained from Heaven both Lightning upon their Enemies, which put them to rout and ruine, and plenty of rain upon themſelves.
+<note place="margin">
+                  <hi>Eccleſ. Hiſt. lib.</hi> 5. <hi>cap</hi> 5.</note> A remarkable preſervation and victory. From that Time, as <hi>Euſebius</hi> reports, they had a peculiar appellation from the Emperour, and were called, <hi>Legio fulminea,</hi> The thundring Legion.</p>
+            <p>
+               <pb n="9" facs="tcp:113588:10"/>
+Yea, is not this to be cleerly ſeen, as truly verified in our New-Modell wherein are ſo many reall godly Men, Commanders in chief, officers and ſouldiers: how happy hath God made them (and us by them) through many great and glorious Deliverances, Suc<g ref="char:EOLhyphen"/>ceſſes &amp; Victories, given them by the good hand of our great God; ſuch as the world can ſcarce parallel, and deſerve to be ſacred to all Poſterity. Though this New-Modell hath been much deſpiſed by Men (chiefly, I ſuſpect for their piety,) yet highly advanced by the Lord as his Hoſte; choſen to fight his battles with proſperous and bleſſed ſucceſſe; to be Humane-Saviours unto this ſinking King<g ref="char:EOLhyphen"/>dome. God crowns Piety with victory where ever he finds it, eſpe<g ref="char:EOLhyphen"/>cially in an Army.</p>
+            <p n="6">6 Laſtly,
+<note place="margin">Reaſ. 6.</note> becauſe there ſhould be a ſuitableneſſe betweene the Cauſe and the Manners of the Perſons which have the Managing of it. Great pitty a good Cauſe ſhould be tranſacted by bad perſons. The Cauſe our Army hath in hand is holy, juſt and good; what manner of perſons ought all thoſe to be in holy Converſation and Godlineſſe, who have undertaken it.</p>
+            <p>Now have I done with the Generall Doctrine of the Text.</p>
+            <p>It is the Duty and Glory of an Army to be holy.</p>
+            <p>In the next place, let us conſider what particular Inſtructions may be gathered from the Text. We may refer them to two Heads
+<list>
+                  <item>1 for informing <hi>Iudgment.</hi>
+                  </item>
+                  <item>2 for regulating <hi>Practice.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1 For information of Our Judgements, the Text furniſheth us with theſe Particulars.</p>
+            <p n="1">1 That it is an Errour to thinke,
+<note place="margin">
+                  <hi>Inſtruct.</hi> 1.</note> it matters not what mens manners be, or how an Army is ordered, if they be but good Soul<g ref="char:EOLhyphen"/>diers, which they can ſcarce be in Gods ſenſe, unleſſe they be good men. If the Camp ſhould be holy, muſt not the Men in it be holy? What makes a holy Camp, but holy Commanders, Officers and Souldiers? How can a Fabrick be good if the Materials be bad? You may as well ſay it is no Matter whether God own an Army or diſ<g ref="char:EOLhyphen"/>claim it; be with them or againſt them; deliver them or deſtroy them: be amongſt them or depart from them; give Enemies up to them, or give them up to their Enemy; whether an Army be clean and clothed, or be naked &amp; unclean, and the filthy Nakednes there<g ref="char:EOLhyphen"/>of appear, even in the ſight of God: or whether it proſper or periſh.</p>
+            <p n="2">
+               <pb n="10" facs="tcp:113588:11"/>
+2
+<note place="margin">
+                  <hi>Inſtruct.</hi> 2.</note> It informs us what is the one thing needfull in an Army, for the defence and ſucceſſe thereof; or what is the principall cauſe of all preſervations and victories in it, namely, Gods preſence. God is in the midſt of the Campe, how? as the Sun is in the midſt of the Planets, as the Heart in the midſt of the body. An Army without God amongſt them, is but a dark dead Company, ſuch as the world would be, if it wanted the Sun, or a body without a heart.</p>
+            <p>As
+<list>
+                  <item>1 The ſhield of their help for defence againſt their Enemies, to ſave his people from them.</item>
+                  <item>2 The ſword of their Excellency for offence of their Enemies, to aſſault and overcome them, <hi>Deut.</hi> 33.29.</item>
+                  <item>3 The Captain of their Hoſt, to lead them on, and fight for them, <hi>Joſh.</hi> 5.14. 2 <hi>Chron.</hi> 13.12.</item>
+               </list>
+            </p>
+            <p n="3">3
+<note place="margin">
+                  <hi>Inſtruct.</hi> 3.</note> It lets us ſee, on the contrary, what is the cauſe of ruine to an Army, of Surprizals, Blows, Foils, Defeats, Routs; Wickedneſſe in it, is the Cauſe of all diſaſters that befall it, of bad ſucceſſe to it. For ſin in the Campe produceth 3 bad and ſad effects. It</p>
+            <p n="1">1 Makes an Army naked to their ſhame and reproach, As <hi>Aaron made Iſrael naked to their ſhame amongst their Enemies, by making the molten Calf. Exod.</hi> 32.25. And as King <hi>Abaz</hi> made <hi>Judah naked,</hi> 2 <hi>Chron.</hi> 28.19. So doth Uncleannes and Unholines make an Army <hi>Naked,</hi> that is
+<list>
+                  <item>1 Unarmed men among their Enemies, ready to be devoured by them.</item>
+                  <item>2 Deformed in themſelves, like a naked man, whoſe deformity is great, for want of clothes to cover his nakedneſſe, <hi>Revel.</hi> 3.18. <hi>&amp;</hi> 16, 17.</item>
+               </list>
+            </p>
+            <p n="2">2 Makes God depart from an Army; deprives it of his counſel and ſtrength, reſcue and protection. <hi>When Iſrael had ſinned, and taken off the accurſed thing, I well not be with you any more,</hi> ſayth God to them, <hi>except yee deſtroy the accurſed from amongst you. Joſh.</hi> 7.11, 12. <hi>The abomination which the houſe of Iſrael committed, made God go far from his Sanctuary,</hi> Ezek. 8.6. and as farre from his Army. Ponder well the wofull effects of Gods departure from an Army. When God is gone, our defence and ſtrength is gone; then welye open to the Enemy, we become bread for them. <hi>If God caſt us off, and go not forth with our Armies, then hee puts us to
+<pb n="11" facs="tcp:113588:11"/>ſhame, makes us to turn back from the enemy,
+<note place="margin">Pſ. 44.9. to 14.</note> and they which hate us ſpotle for themſelves, he makes us a reproch to our neighbour, a ſcorn and deriſion to them that are round about us.</hi> Look upon the ſad condition of the Hoſte of <hi>Iſrael,</hi> when ſmitten at <hi>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> becauſe God (provoked by <hi>Achans</hi> plundered ſtuff) withdrew his preſence a little from them, therefore the children of Iſrael could not ſtand before their enemies, <hi>Ioſh.</hi> 7.12. <hi>This made the hearts of the people to melt, and become as water,</hi> Verſe 5. <hi>And Joſhua with the Elders to fall to the earth upon their faces, and to put duſt upon their heads untill the eventyde,</hi> Verſe 6.</p>
+            <p n="3">3 Yea, ſin in the Camp ſets God againſt his own people,
+<note place="margin">Eſay 63.10. Lament. 2.5.</note> and makes him become their enemies, as ſayth the Prophet, <hi>Iſraelre<g ref="char:EOLhyphen"/>belled, and vexed Gods holy Spirit, therefore he was turned to be their enemy, and fought againſt them.</hi>
+               <note place="margin">Iudg. 2 14.</note> Sin moves God to ſell them into their enemies hands, as he did <hi>Iſrael, into the hands of their enemies round about,</hi> ſo that they could not any longer ſtand before their enemies.</p>
+            <p n="4">4
+<note place="margin">
+                  <hi>Inſtruct.</hi> 4.</note> Out of this Text we may gather and learn the lawfulneſſe of war. It's lawfull for Gods people to make war upon enemies in a juſt cauſe.</p>
+            <p n="1">1 Elſe God would not own Souldiers or a fighting people for his people (as he did <hi>Iſrael</hi> when they were an Armie) nor in<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tle lumſelfe to them as theirs by ſpeciall right. So he doth here, <hi>The Lord thy God.</hi>
+            </p>
+            <p n="2">2 Elſe would not God honour the Camp with his ſpeciall pro<g ref="char:EOLhyphen"/>ſence, as to walke aſſiduouſly and continually in the midſt of it.</p>
+            <p n="3">3 Elſe God would not doe ſuch great things for his people in a Martiall way (or in and by an Armie) as to deliver them, and ſubdue their enemies for them and to them.—God would not have walked in the midſt of <hi>Iſraels</hi> Camp to have done this for them.</p>
+            <p>God hath done wonderous things by Armies for us of late, even miraculous deliverances, defeats, diſcoveries, victories, immuni<g ref="char:EOLhyphen"/>ties, as he did for his ancient Hoſte the Iſraelites in the dayes of old. Are not theſe cleer evidences and pledges of Gods approbation of the thing? Would God ſo bleſſe the deſignes of War, if he did not allow the way of War.</p>
+            <p n="4">4 Elſe God would have prohibited it, or diſſwaded from it, and
+<pb n="12" facs="tcp:113588:12"/>not have given Laws and Orders for it (as he doth here.—<hi>there<g ref="char:EOLhyphen"/>fore ſhall thy Camp be holy,</hi> and <hi>verſe</hi> 9. <hi>When the Hoſts goe forth, keep thee from every wicked thing.</hi>) but againſt it. God would not have ſaid,—<hi>When the Hoſt goeth forth againſt thine Enemies then keep thee from every thing,</hi>—but rather disband the Hoſt, diſſolve the knot of Souldiery, go not forth in bands and arms againſt your enemies. This word had bin as eaſily ſpoken as the other, had it bin Gods mind, Do not ſo wicked a thing as to wage war with thine Enemy? <hi>God would not have ſaid,—therefore ſhall thy Camp be ho<g ref="char:EOLhyphen"/>ly that he ſee no unclean thing in thee, &amp;c.</hi> but rather break up the Camp, let there be none, take other courſes for your defence and right, do not ſuch an unlawfull act as to take up arms. Did God e<g ref="char:EOLhyphen"/>ver give Rules for regulating ſin or any wicked thing?</p>
+            <p n="5">5 Elſe, how can the Camp be holy in it ſelf (which that of <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi> is required to be) if Warre be unlawfull? If the ground of a Fabrick be bad, how can the ſuperſtructure be good? If a thing be nought in the matter of it, can the dreſſe or manner thereof ever make it good?</p>
+            <p n="6">6 Elſe. God may ſee uncleanneſſe enough in the Camp, in the unlawfulneſſe of the action (though there be no Leproſie, nor Iſ<g ref="char:EOLhyphen"/>ſue, nor Excrements, &amp;c. there)</p>
+            <p n="7">7 Elſe God would not be unwilling to depart the Camp, which he ſeems to be, and as it were thruſt out before he will go, not by the unlawfulneſſe of the buſineſſe of Warre, in the ſubſtance of it, but by accidentall uncleanneſſe in the Camp. God would have been glad to have gone from them, had their <hi>Militia</hi> been a bad buſi<g ref="char:EOLhyphen"/>neſſe ſimply in it ſelf.</p>
+            <p>Theſe Arguments, the Text affords us to prove Warre lawfull. Let me adde.</p>
+            <p n="8">8 Elſe God would not command it, as he did to <hi>Moſes, Ioſhua,</hi> and others (his Worthies) <hi>to avenge Iſrael of their Enemies,</hi> Num. 31.2, 3. <hi>and to fight his battels.</hi> It is his <hi>Precept,</hi> 1 Sam. 15.3, 4.</p>
+            <p n="9">9 Elſe, God would not teach it, <hi>as hee did Davids han<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to warre, and fingers to fight: Pſal.</hi> 144.1. It is his Art. Is God a Teacher of evill? how then can he excuſe himſelfe from being th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Author of ſin?</p>
+            <p n="10">10
+<note place="margin">Exod. 15.3. Ier. 48 10. 2 Chron. 13.12 Deut. 20.4.</note> Elſe, God would not profeſſe and practiſe it. It is his Pro<g ref="char:EOLhyphen"/>feſſion to be a Souldier.—<hi>The Lord is a man of warre, ſaith Moſes to be a Captaine, to lead his people, and to fight for them.</hi>
+               <pb n="13" facs="tcp:113588:12"/>Would Godſet up a bad Trade? Yea, God chuſeth warre as a way to declare his excellent power, wiſdome goodneſſe, greatneſſe; wherein to manifeſt himſelfe both to his people, and to their Ene<g ref="char:EOLhyphen"/>mies, to execute judgment on Enemies, to beautifie his meek Ones with deliverances and victories.</p>
+            <p n="11">11 Elſe, God would not prayſe and reward others for it, who did worthily in Military ſervice, as <hi>David,</hi> 1 <hi>Sam.</hi> 25.28.</p>
+            <p n="12">12 Elſe God would not own it nor manage the Affairs of it, if it was evill, 1 <hi>Sam.</hi> 17.47. <hi>The Battle is the Lords, ſaith David,
+<note place="margin">2 Chron 20.15</note> and he will give you (Philiſtims) into our hands. The Battle is not yours (ſaid Iehoſhaphat to his people) but Gods.</hi>
+            </p>
+            <p n="5">5 From hence we all may receive Direction,
+<note place="margin">
+                  <hi>Inſtruct.</hi> 5.</note> touching prayer for our Armies; what to confeſſe, what to petition, and what to give thanks for, principally in regard of them.</p>
+            <p n="1">1 What to confeſſe; what we ſhould bewaile and mourn; for even the Nakedneſſe of our Army, the wickedneſſe that abounds there; wherein wee equall the Enemy. Oh! what horrible blaſ<g ref="char:EOLhyphen"/>phemies, execrable oaths, baſe drunkenneſſe, ſwiniſh filthines, and what not, that any ſouldiers are addicted to, may be found among ſome of ours. Let us lay theſe things to heart; the diſorders of all ranks, Commanders, Officers, and Souldiers in our Campe. For as the Sins of the Countrey may prejudice the ſucceſſe of the Army; ſo the ſin of the Army may hinder the Peace of the Country. And for the ſins, both of Country and Army, if ſome do not mourn,
+<note place="margin">Ier. 12.11.</note> all may ſinart. God hath opened to us a doore of hope, in that ſweet re<g ref="char:EOLhyphen"/>freſhing, reviving Word of promiſe,
+<note place="margin">2 Chron. 7.13, 14. and 20 9.</note> 
+               <hi>If my people humble them<g ref="char:EOLhyphen"/>ſelves, and pray, and ſeek my face, &amp;c. I will heare their prayer, forgive their ſins, and heale their land.</hi> This is the work of the day,
+<note place="margin">Ezra 3.4.</note> &amp; therfore a word in ſeaſon. It was the praiſe of the Prieſts after the Captivity, that they did <hi>opus ſuum in die ſuo;</hi> they offered the daily burnt Offerings by Number according to the Cuſtome, as the duty of every day required. We are call'd together this day, to ſeek God by faſting and prayer, for a bleſſing upon the Deſigne in hand; <hi>ſcil.</hi> the reducing of this ſtrong Gariſon of <hi>Newarke;</hi> a buſineſſe that hath bin oft attempted, but formerly without ſucceſſe and not with<g ref="char:EOLhyphen"/>out loſſe. The Lord ſeemed then to caſt us off, and not to goe forth with our Armies. Did we in either of our former Expeditions (for this is the third) firſt ſeek God by ſolemne Humiliation, to aske Counſell of him, and beg his preſence, to make our peace with
+<pb n="14" facs="tcp:113588:13"/>him, and call him in to our Help, to go along with us, guide us and bleſſe us? or ſolemnly to intereſſe him in the buſineſſe? If wee did then go forth without God, no wonder if wee returned without victory. Bleſſed be God, who hath put it into the hearts of our Worthies, to put an opportunity into our hands, of humbling our ſelves, and ſeeking the face of God this day, that he would be plea<g ref="char:EOLhyphen"/>ſed to ſhine upon our Councels and actions in this Siege-affairs, that the reſult of all may be an end according to expectation.</p>
+            <p>If humiliation be the main work of this day, is not confeſſion of ſin a great part of the work, or duty of the day? as at the ſolemne
+<note place="margin">Nehem. 9.2, 3.</note> faſt and repentance of the people in <hi>Nehemiahs</hi> time—<hi>the chil<g ref="char:EOLhyphen"/>dren of Iſrael ſtood and confeſſed their ſins and the iniquities of their Fathers—they read in the Booke of the Law one fourth part of the day, and another fourth part they confeſſed.</hi> And whoſe ſins ſhould we confeſſe in particular this day, if not theirs, eſpeci<g ref="char:EOLhyphen"/>ally in whoſe hands lies the work that is now in agitation? If we by our prayers this day, through the merits and mediation of Je<g ref="char:EOLhyphen"/>ſus Chriſt, could make atonement for them, God would make a good end of this tedious, coſtly, painfull ſiege for us, if we could make peace with God for them, God would make war againſt our Enemies, and fight our battails for them and us.</p>
+            <p>Thus the Text directs us what to confeſſe this prayer day be<g ref="char:EOLhyphen"/>fore the Lord, <hi>ſcil.</hi> the ſins of our Army, what wicked thing or uncleanneſſe we know to be there. Diſorders are the cauſe of all diſaſters there.</p>
+            <p n="2">2 What to petition God for on behalfe of our Armies, namely,</p>
+            <p n="1">1 For holineſſe from God for them, that the Poet <hi>Lucans</hi> ſay<g ref="char:EOLhyphen"/>ing may be falſified in them:
+<q>Nulla fides piet aſque viris, qui caſtraſequuntur.</q> Let us improve our intereſt in Heaven, for the purging and refor<g ref="char:EOLhyphen"/>ming of our Camp, that vertue may be brought into requeſt and faſhion, and vice into diſlike and deteſtation, both with Comman<g ref="char:EOLhyphen"/>ders and common Souldiers, that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re may be no abominations a<g ref="char:EOLhyphen"/>mong them, which might be provocations unto God (to depart in diſpleaſure from them) and procure deſolations both to them and us. Let us petition the Lord for a good choiſe both of officers and ſouldiers, <hi>ſcil.</hi> ſuch as will fight for conſcience ſake, —and
+<pb n="15" facs="tcp:113588:13"/>for good Diſcipline, that ſin may be ſeverely puniſhed in the Camp: and for good Miniſters to go along with the Army, and ſound their Trumpets. Oh! that we could pray our Army into a poſture of Reformation.</p>
+            <p n="2">2 For Gods preſence to be with them, both in contriving and in acting; in counſelling and in effecting: in the whole worke from beginning to the end. Let us all beg this of God for them (as they ſhall be exhorted afterwards to ſeek it for themſelves) let us enquire of the Lord for them in this Deſigne, as the children of <hi>Iſrael</hi> the when they went the third time in battle againſt the <hi>Benj<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ites,
+<note place="margin">I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dg. 20 2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Shall we yet again go out to battle againſt the childr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Benjamin, or ſhall we ceaſe?</hi> Oh! that God would give us their Anſwer, as the Return of our prayers.—<hi>Goup, for to morrow I will deliver them into thine hand.</hi>
+            </p>
+            <p n="3">3 Here we are directed what to give thanks for chiefly, on the behalf of an Army, namely:</p>
+            <p n="1">1 For any Holineſſe, Reformation or good Orders in the Army, or in any Company, or Officers, or Souldiers in it Eſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i<g ref="char:EOLhyphen"/>ally when the Chief in Command are chief in Godlineſſe alſo.</p>
+            <p n="2">2 For any deliverence granted to the Army <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om Enemies, or victories over Enemies; Give God the prayle and glory of all, who is the giver of all.</p>
+            <p>Now I have done with the Inſtructions, which ſerve for infor<g ref="char:EOLhyphen"/>mation of Judgment.</p>
+            <p>Thoſe are behind, which conducc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpecially to re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulating of pra<g ref="char:EOLhyphen"/>ctice; They may be directed and applyed.</p>
+            <p n="1">1 To all and every one here preſent, in regard of his perſonall Affairs.</p>
+            <p n="2">2 To two ſorts principally, in reſpect of their publike Im<g ref="char:EOLhyphen"/>ployments.</p>
+            <p n="1">1 To all and every one. Here we may learn two leſſons.</p>
+            <p n="1">1 Get God to be with us, if we would proſper,
+<note place="margin">The firſt Practicall Inſtruction.</note> with us in every Condition, Relation, Undertaking; in every creature we en<g ref="char:EOLhyphen"/>joy<g ref="char:punc">▪</g> or buſineſſe we go about. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſure we beg Gods preſence, and take him along with us, for the preſence of God is a Principall Gauſe,</p>
+            <p n="2">2 Of Direction in our courſe. <hi>If the Lord bewith us, we ſhall
+<pb n="16" facs="tcp:113588:14"/>hit ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y and not go wrong: he will guide u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by his counſell. When Moſes ſought of God his way, he begd his preſence for Guidance, Exod.</hi> 33.13, 15. <hi>If thy preſence goe not with us, carry us not up hence.</hi>
+            </p>
+            <p n="2">2
+<note place="margin">Acts 18.10. Pſ. 105 13, 14.</note> Of Protection, For God (where he manifeſts his prefer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e) is, as a Sun to guide, ſo a Shield to defend. <hi>I am with thee ſaid the Lord to Paul, and no man ſhall ſet on thee to hurt thee. When Iſrael went from one Nation to another, from one Kingdome to another people</hi> (and God walked in the midſt of their Camp) <hi>He ſuffered no man to do them wrong yea, he reproved Kings for their ſakes.</hi>
+            </p>
+            <p n="3">3 Of Proviſion.
+<note place="margin">N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h. 9.20, 21.</note> Gods preſence is the beſt ſecurity for Provi<g ref="char:EOLhyphen"/>dentiall Supplyes, againſt all wants. <hi>When God was with Iſrael in the Wilderneſſe, which could not afford them any thing forty yeers did he ſuſtain them in it, ſo that they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>acked nothing.</hi>
+            </p>
+            <p n="4">4 Of Conſolation in the abſence of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e-<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owforts<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>,
+<note place="margin">Acts 16.25.</note> as Li<g ref="char:EOLhyphen"/>berty, friends, goods, &amp;c. Gods preſence made <hi>Paul and S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>as ſing in priſon at midnight.</hi>
+               <note place="margin">1 Cor. 6.9, 10.</note> It makes a man ſay with <hi>Paul, I have all, I abound, even at what time he is poore. What is wanting when God is preſent.</hi>
+            </p>
+            <p n="5">5 Of proſperity, how doe all things proſper <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>take in hand, ſo long as God is with them.
+<note place="margin">1 Chron. 11.9.</note> 
+               <hi>The Lord was with Joſeph and he was a prosperous man, Gen.</hi> 39.2. <hi>It is ſaid of David, that the Lord of Hoſtes was with him, ſo he waxed greater and greater.</hi> This being diſcerned by others (<hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il.</hi> that God is with a man) protu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es him Favour and Truſt from others,
+<note place="margin">Gen. 39.3, 4.</note> 
+               <hi>When, Potiphar, Joſeph<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Maſter, ſaw that the Lord was with him, and made all that he did to proſper in his hand, he made Joſeph Over fear of his <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſe, and all that he had, he put into his hand.</hi> It is ſaid in Verſe 21, 22, 23. <hi>The Lord was with J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeph and g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve him favour in the ſight of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Priſon, who committed all the priſoners to Joſephs hand, &amp;. whatſo<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> they did there, he was the door of it: God i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with thee in all that thou doeſt,</hi>
+               <note place="margin">Gen. 21, 22, 23.</note> Said <hi>Abimilech</hi> to <hi>Abraham, Now therefore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et us make a Cavenant.</hi>
+               <note place="margin">Gen. 26.28, 29.</note> Afterwards <hi>Abi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch and Phie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the chiefe Captain of his Armi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaid to Iſaack, we ſaw certainly that the Lord was with thee, and we ſaid, let there be now an Oath <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> Why doe relations and conditions prove ſo uncomfortable, journeyes, buſineſſe ſo unſuccesfull, but becauſe we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Gods preſence,
+<pb n="17" facs="tcp:113588:14"/>nor care to take God along with us. Hence it is wee doe not proſper.</p>
+            <p>
+               <hi>Queſt.</hi> How may we obtain Gods preſence with us in all our affairs?</p>
+            <p>
+               <hi>Anſ.</hi> Briefly thus.</p>
+            <p n="1">1 Get into Jeſus Chriſt,
+<note place="margin">2 Cor. 5.19.</note> 
+               <hi>in whom God is reconciledly preſent with his people, God out of Chriſt is a conſuming fire.</hi>
+            </p>
+            <p n="2">2 Humble your ſelves for former provocations, as <hi>Iſrael</hi> did before God renewed to them the promiſe of his preſence, when he had ſaid to them. <hi>I will not goe up in the midſt of thee,
+<note place="margin">Exod. 33.3, 4, 6, 14.</note> for thou art aſtif-necked people, the people mourned, and put off their orna<g ref="char:EOLhyphen"/>ments;</hi> Then ſaith God, <hi>Mypreſence ſhall goe with you, and I will give you reſt.</hi>
+            </p>
+            <p n="3">3 Pray carneſtly for it, as <hi>Moſes</hi> did, <hi>If thy preſence goe not,
+<note place="margin">Exod. 33 15.</note> carry us not up hence.</hi>
+            </p>
+            <p n="4">4 Believe in Gods promiſe, for he hath ſaid,
+<note place="margin">Heb. 13.5.</note> 
+               <hi>I will never leave thee nor forſake thee.</hi>
+            </p>
+            <p n="5">5 Set your ſelves continually as in Gods ſight and preſence, walke as under his eye, keepe him in your mindes and hearts, for <hi>The Lord is with you; whiſe you be with him,</hi>
+               <note place="margin">2 Chron. 16.2.</note> carry him in your hearts, and he will bear you in his hands.</p>
+            <p>And now I have done with the firſt Practical Inſtruction, which concerncall<g ref="char:punc">▪</g> 
+               <hi>Get Gods pref<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce if you would proſper.</hi>
+            </p>
+            <p>The ſecond follows, He boly if you would k<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>p it,
+<note place="margin">The ſecond Practicall In<g ref="char:EOLhyphen"/>ſtruction to all.</note> be godly if you would enjoy God, when you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> journey, or negotiate, then keep your ſelv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> every <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hing, eſpe<g ref="char:EOLhyphen"/>cially from thoſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls to which you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> moſt inclin<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may be moſt tempted, Remember <hi>David,
+<note place="margin">Pſal. 18.23.</note> It <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> upright before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd I kept my ſelfe from wine iniq<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ty<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> God walk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the midſt of thy houſe, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and nalling, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> (as he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the midſt of Iſraels camp), to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and proſper thee: Therefore ſhould thy heam, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd houſe, and family, and all thou haſt be holy: Then God will <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> mongſt you, his <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>un<g ref="char:EOLhyphen"/>clean thing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> clean actions, ſpeeche<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> looks <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thoughts of mi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> health reeding within thee, <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cleanneſs either in thy fleſh or ſpiri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eſp<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ly that he ſee, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:113588:15"/>of uncleanneſſe in thee; which loves and likes filthineſſe, and takes liberty, yea, delight to lye in the dung of ſin and wickedneſſe, <hi>If there be iniquity in thy hand,
+<note place="margin">Iob 11.14. and cap. 22.23.</note> heart, or houſe put it farre away, elſe God will turn away from thee. For God will be gone, if thou wouldſt have ſin to ſtay.</hi> Thou muſt either leave thy fins, or loſe thy God. Let your principall ſtudy and endevour be to pleaſe God in all things, and to be holy in all manner of converſation; then Gods preſence ſhall be with you, where ever you goe, as it was with our bleſſed Saviour,
+<note place="margin">Iohn 8.29.</note> who ſaid, — <hi>He that ſent <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e is with me, the Fa<g ref="char:EOLhyphen"/>ther hath not left me alone, for I doe always thoſe things that pleaſe him.</hi>
+            </p>
+            <p>So much of the ſecond Practicall Inſtruction, which reſpects all, <hi>Be holy, keep your ſelves pure, if you would keep God with you.</hi>
+            </p>
+            <p>I come in the next place to apply theſe two Inſtructions to two ſorts, eſpecially in regard of their publike Imployments, which heare me this day, To wit, our <hi>Senatours,</hi> and <hi>Souldiers.</hi>
+            </p>
+            <p n="1">1
+<note place="margin">A Particular Application.</note> To our <hi>Senatours,</hi> the Heads of our Tribes and the Men of our Counſel. <hi>The Right Honourable, The Committee of Lords and Commons here preſent, who conſult the Peace and Safety of theſe poore ruined Countries; and carry on our great affaires with them advice.</hi> Would you have your Counſels wholſome and ſaving, profitable and effectuall? then</p>
+            <p n="1">1 Intereſſe and ingage Gods preſence with you in all your con<g ref="char:EOLhyphen"/>ſultations and debates. Conſiſt with God, ſeverally, what ſhal, I and I, propound or offer, that may mainly conduce to the Con<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> we<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, which is committed to our Cuſtody; as he Counſell of God joyntly, what ſhall wee conclude and reſolve? Make God your wiſdome; eve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſet God at Board-end, as preſent, yea, Preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dent in all your Counſels. <hi>For God ſtands in the Congregation of Privees, and he judg<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th among the Gods.</hi>
+            </p>
+            <p n="2">2 T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e heed God ſee no <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in you or among you, leaſt he depart from you, then wiſdome will periſh from the wiſe, and underſtanding ceaſe from the prudent. Counſels are blaſted by men, when Counſellours are deſcribed by God. Oh, be carefull to keep both your heads and hearts pure, and God will delight to
+<pb n="19" facs="tcp:113588:15"/>breath <hi>ſound wiſdom, and the knowledge of witty inventions into you,
+<note place="margin">Prov. 8 12. Eccleſ. 9.15, 16, 17, 18 Prov. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.18.</note> how to ſave your ſpoyled, undone Countreys. Wiſdome</hi> (ſaith the Preacher) <hi>is better then ſtrength, then weapons of warre.</hi> No State<g ref="char:EOLhyphen"/>counſell ſtands more need to be good, then that which manageth the Affairs of Wars. <hi>With good advice make warre, ſaith Solomon.</hi> If War be a building, then forces and weapons are the Walls. But Counſell is the foundation. Happy be the Deſignes, which are car<g ref="char:EOLhyphen"/>ried on the Wings of wholſome Counſell.</p>
+            <p>Now I have ſpoken to our <hi>Counſellours,</hi> let mee direct the ſame word of Inſtruction.</p>
+            <p n="1">1 To our <hi>Souldiers,</hi> to teach them theſe two Principall Leſſons.
+<list>
+                  <item>1 <hi>Be earneſt with God for his preſence with you.</hi>
+                  </item>
+                  <item>2 <hi>Advance holmeſſe in your Campe,</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Firſt Leſſon.</p>
+            <p>Be very earneſt with God for his ſpeciall preſence with you in your Camp, in all your Military Motions, Poſtures and Deſignes; to have God ſtay with you in your Quarters, and goe with you, when you <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch, and when you engage. Renew <hi>Moſes</hi> his requeſt to God very often; upon every freſh occaſion, <hi>If thy preſence go not not with us, let us not goe forth againſt the Enemy;</hi> either in a party, or in a body. <hi>When Iſrael were going to march on in the Wilderneſſe towards Canaan, they begd Gods preſence for the whole Hoſt, For when the Arke ſet forward, and the Hoſt roſe up to march,
+<note place="margin">Num. 10.35, 36</note> Moſes</hi> ſaid, <hi>ſeil.</hi> in the Name, and on the behalf of them all, <hi>Riſe up, Lord, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et thine Enemies be ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ered—and when the Arke reſted, he ſaid, Return, ô Lord, unto the Ten thouſand-thouſands of Iſrael:</hi> as if he had ſaid, <hi>Let God go along with us, and dectare his preſence among us.</hi> Whether we ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ampe.</p>
+            <p>This ſhould be the earneſt deſire
+<list>
+                  <item>of good Commanders for themſelves and their Souldiers; as it was of <hi>Moſes, Exod.</hi> 33.15. <hi>that Gods preſents may go forth and come in with them.</hi>
+                  </item>
+                  <item>of Souldiers not only for themſelves, but for their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was of <hi>Iſ<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>
+                     </hi> for</item>
+               </list> 
+               <hi>Joſhua.
+<note place="margin">Ioſhua 1.17.</note> As we have barkned unto Moſes in all things</hi> (ſay they) <hi>ſo will wee harken unto thee, only the Lord thy God <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee was with Moſes.</hi> Let me inlarge this Leſſon by two Particulars.</p>
+            <list>
+               <pb n="20" facs="tcp:113588:16"/>
+               <item>1 The Manner of his preſence in the Camp.</item>
+               <item>2 Motives to ſeek it.</item>
+            </list>
+            <p>As for the Meanes to obtain it,
+<note place="margin">The Manner of Gods pre<g ref="char:EOLhyphen"/>ſence in the Camp. As a God of Counſell. Iudg. 7.16.</note> that is, the Purport of the ſe<g ref="char:EOLhyphen"/>cond Leſſon;</p>
+            <p n="1">1 The Manner, How is God in an Army, or how ſhould you deſire him to be with you?</p>
+            <p>
+               <hi>Anſw.</hi> 1 As a God of Counſell to adviſe you what to do; to teach you the Policies of War, as he did <hi>Gedeon</hi> his ſtratagem of <hi>Trumpets Lamps,</hi> and <hi>Pitchers; Ioſhua his ambuſhment at Ai, Io<g ref="char:EOLhyphen"/>ſhua</hi> 7. And <hi>David</hi> which way to ſet upon the <hi>Philiſtines</hi> with moſt advantage,
+<note place="margin">2 Sam. 5.22, 23</note> 
+               <hi>ſcil, to fetch a compaſſe behind them, and come upon them over againſt the Mulbery Trees.</hi>
+            </p>
+            <p n="2">2 As a man of War,
+<note place="margin">As a Man of War.</note> or Captain for, the Scripture ſets forth the
+<list>
+                  <item>1 <hi>Father,</hi> as Generall, <hi>Exod.</hi> 15.3.</item>
+                  <item>2 <hi>Son,</hi> as Captaine, <hi>Io<g ref="char:EOLhyphen"/>ſhua</hi> 5.14.</item>
+                  <item>3 <hi>Holy Ghost,</hi> as Enſigne, <hi>Eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> 59.19.</item>
+               </list>
+            </p>
+            <p n="1">1 To exerciſe you,
+<note place="margin">Pſal. 18.4. Pſal. 18.32, 39.</note> or teach you the Art of War (as he did <hi>Da<g ref="char:EOLhyphen"/>vid) your hands to fight and fingers to war.</hi>
+            </p>
+            <p n="2">2 To ſtrengthen you, for, <hi>It is God,</hi> ſaith <hi>David, that girdeth me with ſtrength unto the battle.</hi>
+            </p>
+            <p n="3">3 To incourage you,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chron. 12.8.</note> hee infuſeth undauntedneſſe of ſpirit and heroick valour. <hi>God can make you ſwift as Roes; bold as Lions like the Gadites,</hi> and put mettle and courage into you, when you are exanimate.</p>
+            <p n="4">4 To lead you forth and fight for you, as <hi>Moſes</hi> told <hi>Iſrael.
+<note place="margin">Deut. 1.29, 30. 2 Chron. 13.12 Iſa. 58.8. &amp; 52.12. Numb. 10.25.</note> The Lord your God, which goeth before you, he ſhall, fight for you.</hi>
+            </p>
+            <p n="5">5. To gather you up, or be your <hi>Reye-ward as the Tribe of Dan was the Gathering Hoſte, that came laſt, and gathered up the weak ones and hindmoſt,</hi> and ſuch as were left behind. So God not only leads the <hi>Van,</hi> but brings up the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere</hi> the weak and feeble ones, God bears in his arms.</p>
+            <p n="6">6.
+<note place="margin">Iſaiah 59.19.</note> To lift up a <hi>Standard</hi> againſt your Enemies. Gods Spirit is <hi>Enſigns.</hi>
+               <note place="margin">As a God of power.</note>
+            </p>
+            <p n="7">7. As a <hi>God of power.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:113588:16"/>
+To
+<list>
+                  <item>Protect you, that the Enemies weapons, thoſe Inſtruments of of death, may not, either hit or hurt you. For bullets fly by his Commiſſion: <hi>and whoever draws the bew,
+<note place="margin">1 King 22.34. 2 Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>l. <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>7.</note> he directs the arrow. God gave David the ſhield of his ſalvation, Pſ.</hi> 
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.35 and delivered him from the hurtfull ſword.</item>
+                  <item>Proſp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> you, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your enemies to you, and caſt victo<g ref="char:EOLhyphen"/>ries upon you, as hee gave <hi>David tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ks of his Enemies,
+<note place="margin">Pſal. 18 40.</note> that he might deſtroy them that hated him.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>You ſee the manner of God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſence in an Armie. Let mee preſſe upon you.</p>
+            <p n="2">2 Metives to ſeek it, drown from the effects thereof.
+<note place="margin">Motive to ſeek Gods pre<g ref="char:EOLhyphen"/>ſence. Pſal. 144.2.</note> Gods pre<g ref="char:EOLhyphen"/>ſence in an Army is a ground to the Souldiers.</p>
+            <p n="1">1 Of Safety, That <hi>God will cover their heads in the day of bat<g ref="char:EOLhyphen"/>tell;</hi> and if they fight, <hi>God <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſhield to them,</hi> if forced to fly, <hi>God will be their</hi> Fortreſſe <hi>old high</hi> Tower. In gretteſt peri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>here is ſafety where God is, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o where. Its good for Souldiers to draw neer to God, becauſe danger (and death it ſelfe, for ought they know) are neer to them.</p>
+            <p n="2">2 Of <hi>Courage,</hi> for this was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſed as the great encouraging ar<g ref="char:EOLhyphen"/>gument to the Hoſte of <hi>Iſrael,</hi> ſome time to time, to bee both and very valiant, <hi>ſcil. That God was with them,</hi> as by <hi>Moſes, Deut.</hi> 1.29,
+<note place="margin">Deut 20.2, 3, 4. Ioſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 14.12.</note> 30. <hi>by the Prieſts by Hezekiah,</hi> 2. <hi>Cl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>.</hi> 32.7; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> This will mettle and edge mens ſpirits to difficult deſignes, even to grapple with <hi>Gyants</hi> as <hi>Caleb</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bold to do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p n="3">3 Of <hi>Victory,</hi> for<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> two God is. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o mar<g ref="char:EOLhyphen"/>vel, <hi>For if God be with us who can be againſt us?</hi> or, <hi>they that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with us, are more then they <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> (ſayth <hi>Hezekiah) is but an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rme of fleſh</hi> (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) <hi>but <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Lord our God,</hi> as they that have God <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all-times in the<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e of the Lord,</hi> g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>David</hi> did againſt <hi>Goliah,</hi>
+               <note place="margin">1 Sam. 17.45, 46. 1 Chron. 13.12.</note> they are ſure to prevail. <hi>Gods preſence</hi> was the ground of <hi>Abijahs</hi> confidence againſt <hi>Jeroboam</hi> and his <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as if that was <hi>all in all.</hi>
+            </p>
+            <p n="4">4 Not onely of <hi>victory</hi> and <hi>ſucceſſe,</hi> but of acceſſe o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> increaſe, that many other will <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> when they perceive that God is with them,
+<note place="margin">2 Chron. 15.9.</note> as they did <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o <hi>Aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> out of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> abundance.</p>
+            <p n="5">
+               <pb n="22" facs="tcp:113588:17"/>
+5
+<note place="margin">Deut. 11.25.</note> Of <hi>Terrour to their Enemies,</hi> the feare and dread of an Army fals upon the Spirits of their Enemies, and ſhakes, yea, m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks them, when God manifeſts, his preſence to be with them. See it in the <hi>Cananites</hi> and <hi>Philiſtines,</hi>
+               <note place="margin">Ioſh. 2.9, 10, 11</note> 1 <hi>Sam.</hi> 4.7.8. who ſaid, <hi>We unto us, we unto us for God is come into Iſraels Campe, Who ſhall deliver ut &amp;c.</hi>
+            </p>
+            <p n="6">6 Of <hi>Glory</hi> and <hi>Honour,</hi> for hereby Gods puts a difference be<g ref="char:EOLhyphen"/>tween his people, and all the world beſides, As <hi>Moſes</hi> ſaid to God. <hi>If thy preſence go not with us,
+<note place="margin">Exo. 13.15, 16.</note> carry us not up hence.</hi> For wherein ſhall it be known heer, <hi>that I and thy people have found grace in thy ſight?</hi>
+               <note place="margin">Expd. 8.22.</note> is it not in that thou goeſt with us, ſo ſhall we be ſeparated, <hi>I and thy people, from all the people that are upon the face of the Earth</hi>
+            </p>
+            <p>Its a gallant Army when <hi>God</hi> goes <hi>Generall.</hi>
+            </p>
+            <p>Souldiers, get and keep God amongſt you, ſo ſhall you be ſafe, couragious, victorious, increaſing, dreadfull, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lorious. Its dange<g ref="char:EOLhyphen"/>rous to go upon any Deſigne and not to take God along with you, <hi>Numb.</hi> 14.44 45. <hi>The Iſraelites were ſmittem, when they prefummed to go without the Ark.</hi> So much of the firſt Leſſon.</p>
+            <p>The ſecond Leſſon follows.</p>
+            <p>Advance <hi>holineſſe in your Cam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sp.</hi> Conſider what be the ſins of an Army, and be carefull to keep your ſelves from them as</p>
+            <p n="1">1 Covetouſneſſe, to be Greedy of Pay and Prey.</p>
+            <p n="2">2 Injuſtice, to oppreſſe, plunder, pillage, doe violence to others. Unlawfull Spoyls are plain robbery.</p>
+            <p n="3">3 Pride and Emulations which have bred Great
+<list>
+                  <item>Conten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons among Commanders and Officers,</item>
+                  <item>Diviſions, Factions, Sidings in an Army,</item>
+               </list> and many private quarrels beſides. Pride and vanity in apparell and faſhion, too common among Souldiers,</p>
+            <p n="4">4 Prophaneſſe, as Swearing, Curſing, Blaſphemy, Scoſſing at goodneſſe and good men, A theaſme, to live as without God in the Camp, void of the knowledge, ſenſe or fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of God, New-coin'd Oaths, Sabbath breaking.</p>
+            <p n="5">5 Filthin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe in word or deed, as corrupt Communications, Drunkenneſſe, Adultery,</p>
+            <p n="6">6 Cowardiſe, Puſillanimity, or baſeneſſe of ſpirit.</p>
+            <p n="7">7 Treachery and Unfaithfulneſſe, which diſcovers it ſelfe in
+<pb n="23" facs="tcp:113588:17"/>
+               <list>
+                  <item>1 Betraying Truſts.</item>
+                  <item>2 Communicating Intelligence to the enemy.</item>
+                  <item>3 Neglecting or not taking advantages, when put into their hands.</item>
+                  <item>4 Falling off to the enemies party.</item>
+               </list>
+            </p>
+            <p n="8">8 Diſcontents, Mutinies.</p>
+            <p n="9">9 Confidence in an arme of fleſh, as multitude of men and horſes, fortifications which are but the works of our hands, un<g ref="char:EOLhyphen"/>worthy to be our Gods.</p>
+            <p n="10">10 Neglect of Piety, and exerciſes of it, as praying, hearing, reading, conferring of the things pertaining to the Kingdom of heaven.</p>
+            <p n="11">11 Want of Diſcipline, and execution of it in the Campe. Eſpecially in puniſhing offenders this may be a cauſe of all the reſt.</p>
+            <p>If God ſee any ſuch unclean thing among you, hee will depart from you, and give you up into the hands of your enemies.</p>
+            <p>God will not owne you for his Hoſte, if while you fight, preten<g ref="char:EOLhyphen"/>dedly for him with your hands, you fight palpably againſt him by your ſins. God ordinarily accepts the perſon, before he delights to uſe him, or doth bleſſe the action. As in every Nation ſo in every Campe or Armie, he that feareth God, and worketh righte<g ref="char:EOLhyphen"/>ouſneſſe is accepted with God, whether Commander or Common Souldier, very likely God will uſe ſuch a one as an Inſtrument of ſpeciall ſervice. When the Campe is holy, then deſignes are hap<g ref="char:EOLhyphen"/>py, If the perſons be pious, their procedings are proſpe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous, be<g ref="char:EOLhyphen"/>cauſe the Lord their God walkes in the midſt of them, to deliver them, and to give up their enemies before them.</p>
+            <p>
+               <hi>Queſt.</hi> What be the meanes of purging and reforming an Arm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e?</p>
+            <p>
+               <hi>Anſ.</hi> Get good Miniſters to got along with the Armie, as the Prieſts did with <hi>Iſraels</hi> Hoſto, <hi>D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t.</hi> 20.2, 3. to diſcipline the ſoul<g ref="char:EOLhyphen"/>diers ſouls, and to Surgeon their diſeaſes in manners,
+<note place="margin">Luke 3.14.</note> 
+               <hi>John <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aptiſt</hi> to teach Souldiers their duties, as to doe violence to no man <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ac<g ref="char:EOLhyphen"/>cuſe no man falſely, to be content with their wages How can Sonldiers grow better, that have not means to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>? <hi>As for us</hi> (ſaith <hi>Abi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to <hi>Jer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ohn,</hi> in compaſſe of his Army,
+<pb n="24" facs="tcp:113588:18"/>when they had on both ſides ſet the Battle in aray) <hi>The Lord is our God,
+<note place="margin">2 Chron. 13.10 11, 12.</note> and we have not forſaken him, and the Prieſts which mi<g ref="char:EOLhyphen"/>miſter unto the Lod, are the ſonnes of</hi> Aaron, <hi>and the Levites wait upon their buſineſſe, and they burne unto the Lord every morning and evening burnt Sacrifices, and ſweet incenſe, &amp;c.</hi>
+            </p>
+            <p n="2">2 Have daily exerciſes of piety in the Camp, prayer at leaſt, and reading of Scriptures alſo (if it may be) evening and morning, as both the motions or journeyings, and reſt of the Arke, and cloud, and Hoſte of <hi>Iſrael</hi> were ſanctified by prayer, before the people might either ſet forward or pitch their Tents.
+<note place="margin">Numb. 10.35, 36.</note> 
+               <hi>When the Arke ſet forth, Moſes ſaid, reſe up Lord, and let thine enemies be ſcattered,</hi> for prayer will raiſe God, and move him to goe with his people a<g ref="char:EOLhyphen"/>gainſt their enemies, if he late before; and awaken him, if he was aſleepe before; and ſtir him up to ſcatter enemies, if hee permitted them to gather before. Prayer in an Armie awakens and raiſeth God to the preſeruation of the Arme, and deſtruction of the Enemies.</p>
+            <p>So when the A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke reſted, <hi>Moſes</hi> prayed to God to returne, and remain among them, for in his preſence is joy and ſafety, reſt and ſecurity.</p>
+            <p n="3">3 Let it be the care of the Commanders in chiefe, to chuſe both good Officers and good Souldiers, for good Materians will make a good Bunding: How can an Armiebe good if the Soul<g ref="char:EOLhyphen"/>derie be bad? Holineſſe is the Head-prece both of Commandere and Souldrers: Piety is the chiefeſt praiſe of born, as of <hi>Moſes</hi> the great Commander in <hi>Iſrael, That he was the ſervant of God: And the Centurion in the Goſpel,
+<note place="margin">Luke 7.9.</note> that Chriſt found not ſo great ſaith</hi> (as in him) <hi>no, not in Iſrael,</hi> and the <hi>Centurion</hi> in the <hi>Act.</hi> 10.1, 2. <hi>Cornelius, who was a devout man, and one that feared God with a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> his houſe, — and of them that w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yted on him conlimally, one was adevout Souldier, ver.</hi> 7. here note. Devotion is the Commenda<g ref="char:EOLhyphen"/>tion of a Souldier: Religion ſhipires the principles and Spirit of true Valour; they raiſe an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> report of it, and ſlander it exceding<g ref="char:EOLhyphen"/>ly, they ſay, Religion makes men Cowards.</p>
+            <p n="4">4. Set up ſtrict diſcipline in the Carſiple, Pumſh ſuch us Tranſ<g ref="char:EOLhyphen"/>teſſe, and make ſome exemplary, that the reſt may ſee or heart,
+<pb n="25" facs="tcp:113588:18"/>and feare, and not dare to doe any ſuch wickedneſſe: Many Soul<g ref="char:EOLhyphen"/>diers are no better then Diſcipline makes them, Camp-diſcipline is (as one ſaith) the Soule of an Armie, which organizeth the whole body, and keeps all within due limits and compaſſe, as well for Carriage and Manners, as for Poſtures and Quarters. The very name of a Campe implies Diſcipline, as one ſaith
+<note place="margin">a Diſta <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> eaſtra quaſi ca<g ref="char:EOLhyphen"/>ſta eo quòd ibi caſtraretur li<g ref="char:EOLhyphen"/>bide.</note> 
+               <hi>Diſcipline is a fruit of Neceſſity, bred up by the exorbitancie of mans Nature, and the evils incident to a Military life.</hi> It was exactly exerciſed in <hi>Iſraels Campe,</hi> as appears in the cenſure of <hi>Achan</hi> and others.</p>
+            <p>Give me leave to diſtribute what remains of theſe reforming directions to the Officers and Souldiers feverally</p>
+            <p n="1">1 To the Commanders and Officers. You, our Worthy Leaders, who have ſhewed your ſelves the Sonnes of Valour, and beene a wall unto us, both by night and day, and adventured your lives to ſave ours. The Lord faſten theſe two things upon your hearts, for promoting holineſſe in your Armie.</p>
+            <p n="1">1 Be Zealous for God, his Name and Glory,
+<note place="margin">Numb. 25.11.</note> as <hi>Phinchas</hi> was <hi>with the zeale of God, who thruſt</hi> Zimri <hi>and</hi> Cozbi <hi>through in the Tent, for their fornication,</hi> God hath made ſome of you <hi>a great Name, like unto the Name of the great Men that are in the Earth,</hi>
+               <note place="margin">2 Sam. 7 9.</note> and honoured you to bee Field-Saviours to Us; On ſhew your ſelves tender of his glory, that his Name may not be diſhonoured, nor Mercies abuſed, nor Sabbaths prophaned, nor his Laws viola<g ref="char:EOLhyphen"/>ted, by any under your Command, ſo fat as it is in your power any way to prevent or redreſſe the ſame. Commanders in the Campe ſhould be a Terror to evill-doers, and a Praiſe to them that coe well there, as Rulers are in the Common-wealth,
+<note place="margin">Rom. 13 3.</note> that Souldiers may be afraid of the power of Martiall Diſcipline, as Subjects are (or ought to be) of Magiſtraticall. Imitate <hi>Job,
+<note place="margin">Iob 29.25.</note> who when he ſate chieſe, and dreſt as a King in the Armi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> (over his people for he was a great Eaſtern Prince) <hi>as one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hal comforteth the Mourners,</hi> he choſe out their way for them, that is,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 11. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </note> hee not onely had them at Command, but regulated their courſe, tempering ſeverity with elemencie, comands with comforts and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you doe, who ſit chiefe in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> way for them, as <hi>Job</hi> did for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> would have them c<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y well this is the way to be both beloved and feared by them.</p>
+            <p n="2">
+               <pb n="26" facs="tcp:113588:19"/>
+2 Be exemplary for piety and vertue, as devotion, temperance, righteouſneſſe moderation, as well as for valour, vigilance, diligence to your Souldiers ſaying to them, as <hi>Gideon</hi> did to his, in another caſe,
+<note place="margin">Iudges 7.17.</note> 
+               <hi>Look on us, &amp; do likewiſe,</hi> carry your ſelves as we do. If Officers be bad, it is rare to finde the Common Souldiers good, for very ex<g ref="char:EOLhyphen"/>ample will ſpoil them.
+<note place="margin">1 Sam. 25.28.</note> Remember <hi>Abigals</hi> ſpeech to <hi>David, The Lord will certainly make my Lord aſure houſe, becauſe my Lord fighteth the battels of the Lord, and evill hath not been in thee all thy dayes.</hi> Gods Military ſervants ſhall finde a good reward at Gods hands, if in them God hath not found evill: This is the eaſieſt and honourableſt way of Reformation to take vice away out of the Campe, <hi>ſcil.</hi> rather by example then by puniſhment: It is a great diſhonour to you that are Commanders over others, and Conquerors over enemies, to be ſervants to ſin, yea, ſlaves to your luſts, and to rule your ſelves by your own wills, while you order your Souldiers by Martiall Laws, as it was for <hi>Alexander</hi> not to be able to conquer himſelfe, when hee had conquered a world. I have done with the Commanders and Officers, The Lord do them good by what hath been ſaid.</p>
+            <p>Let me ſpeake a few words of advice.</p>
+            <p n="2">2 To the Common Souldiers, to further holineſſe among you, I commend unto you two things.</p>
+            <p n="1">1 Mutuall watchfulneſſe and admonitions, that you would obſerve and conſider one another, to provoke one another to feare God, and depart from iniquity, to mourne for ſin, and cloſe with a Saviour, to tell one another of what you ſee amiſſe, ſaying, as <hi>Lot</hi> did to the <hi>Sodomites,</hi> when any of your fellow-ſouldiers ſweare or drink immoderately, or doe violence or mutiny, and the like.—<hi>I pray you brethren doe not ſo wickedly. Why was all Iſrael involved in the guilt of one mans ſin ſcil. Achans) but becauſe they did not warch over one another, and over him in ſpeciall.</hi> He was a <hi>Cain</hi> that ſaid, <hi>Am I my brothers keeper?</hi>
+               <note place="margin">Gen. 19.7.</note>
+            </p>
+            <p n="2">2 Fellowſhip in ſoule-edifying duties: Your heart will cleave cloſer to Jeſus Chriſt in faith, and each to other in love, and bee more deare and intimate mutually, if you be Comrades in exerciſes as well of piety, as of military poſtures, and of Armes, in praying, reading, conferring together, as in quartering, watching, march<g ref="char:EOLhyphen"/>ing, or in going upon any deſigne together. Holy duties, and com<g ref="char:EOLhyphen"/>munion
+<pb n="27" facs="tcp:113588:19"/>in them, are the meanes to make you holy men, a godly Souldier, a praying, fighting Armie, a thundering Legion ſo that the campe be holy. When other Souldiers that are rude, and have no ſavour of the things of God nor care of their own ſouls, will goe drinke till drenke, or ſing fooliſh ſongs, talke ribaldry, or play at Cards, and ſo game away their time and money: Oh goe you and pray together, ſeeke God together, edifie one another in faith pa<g ref="char:EOLhyphen"/>tience, courage, godlineſſe, helpe one another heaven-wards, ſtrengthen your ſelves mutually againſt corruptions, tentations, and diſcouragements, to which you are ſubject as men as Chriſtians, and as Souldiers. The fruit and comfort hereof will rem<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in with you, when all vain delights and ſports are vaniſhed, and leave a ſting behinde them in the conſcience. I thinke Souldiers of all other men ſhould be good Husbands, both with their Money and Time to ſpend it well.</p>
+            <p n="1">1 With their Money, not to ſhufle and cut it away at Cards, nor caſt it away at Dice, ſeeing they get it with the hazard of their lives, it is the price of bloud.
+<note place="margin">2 Sam. 23.15, 16, 17.</note> 
+               <hi>David would not drinke of the water of the well of</hi> Bethlehem (though he longed for it) <hi>becauſe his men got it with ſo much hazard,</hi> Is not this, ſaid be, the bloud of the men that went in jeopardie of their lives? therefore he would not drinke thereof, but poured it out unto the Lord, as an offering of Thankſgiving unto God, for delivering them out of that danger: If <hi>David</hi> would not drinke the water that was drawn with the hazard of his mens lives, vvill you game away the money you carn vvith the hazard of your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vn lives every day.</p>
+            <p n="2">2 With your Time, becauſe yours is moſt uncertain and may be very ſhort. That which is paſt, cannot be recal'd, and that which is future cannot be aſſured; only the preſent Time is yours improve it, I beſeech you, to better purpoſe then drinking or playing, you may be cut off before to morrow.</p>
+            <p>Oh! Remember you carry your lives in your hands continually. Should not a Souldier be a Saint, becauſe he is in danger of death and damnation every houre, if he continue in ſin un-repented and un-reformed. Such as ſpend their Time in play or idlely, can be in no good poſture for death and judgement; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they make a courſe to lye down in ſorrow, and to be buried in a field of ſhame.</p>
+            <p>Souldiers, conſider, is there not as good fellowſhip in praying as in playing together; in ſinging Pſalms as baſe Ballads, in talk<g ref="char:EOLhyphen"/>ing
+<pb n="28" facs="tcp:113588:20"/>of ſpirituall matters for the benefit of your ſouls; as in opening your mouth, and in multiplying words without knowledge, ſay to one another, Come fellow-ſouldiers, let us go pray or ſeeke God, or inſtruct, incourage, admoniſh, warme the heats of one another by ſweet-breathing of holy Counfail and boſom-experience. What? ſhall we march and watch and fight and lye and dye together (for ſo we may, for ought we know) and ſhall wee not pray together, nor ſerve God together, that if we go out of the world together, we may go to Heaven together. Should we not be holy together in our militant ſtate here, that we may be happy together triumphantly to eternity hereafter? Shall we do duties together for man in the field, and not for God, and for our own ſouls in our Quarters? Accuſtome your ſelves to ſuch ſpirituall exerciſes Now, as will be your delight when you go hence and ſhall be no more. There is neither drinking nor gaming, much leſſe ſwearing and revelling in the grave whither your bodies are going, or in Heaven whither you deſire your ſouls may go. What will it profit you to win the Field and get ſpoyls, and loſe your precious ſouls.</p>
+            <p>I will conclude this Application of my Text to our Commanders, Officers and Souldiers, in a few brief Cautions and Mementoe's to them all, as an abridgment of all.</p>
+            <p>—Cautions three.</p>
+            <p n="1">1 Take heed of ſin, for God will not go among a Company of baſe, debauched, diſordered fellows: ſuch are moſt obnoxious to a fatall ſtroak.
+<note place="margin">Ier. 25.31. Amos 9.10.</note> 
+               <hi>God will give them that are wicked to the ſword. And the ſinners of the people ſhall dye by the ſword, though they be ſuch as uſe the ſword.</hi>
+            </p>
+            <p>One ſuch perſon ſometimes brings Gods judgements on a whole Army, as <hi>Achan</hi> did on the Hoſte of <hi>Iſrael,</hi> by plundering the goodly <hi>Habyloniſh garment &amp;</hi> 200 <hi>ſhekels of ſilver &amp; wedge of gold,
+<note place="margin">Ioſh. 6.18. &amp; 7.12. Eccleſ. 9.18. <hi>Non proſpere pugnant adver<g ref="char:EOLhyphen"/>ſus malos, qui <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>pſi ſunt mali.</hi>
+                  </note> which made the Camp of Iſrael a Curſe, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>. One ſinner deſtroys much good.</hi>
+            </p>
+            <p>You that fight for God againſt Enemies, ſhould keep your ſelves free from the ſine of Enemies; elſe the ſucceſſe will be doubtfull. They that go againſt <hi>Babylon</hi> ſhould firſt go out of <hi>Babylon.</hi>
+            </p>
+            <p n="2">2 Take heed of ſelf-confidence, truſting in your own ſtrength skill, valour, or weapons of War. This will blaſt all your deſignes and hopes. See the effect of it in thee Champion <hi>Goliah.</hi>
+            </p>
+            <p n="3">3 Take heed of by ends or ſelf-reſpects in the ſervice, as paper
+<pb n="29" facs="tcp:113588:20"/>praiſe, booty, plunder, preferment. Its true, a ſouldier deſerves his pay, as the labourer doth his wages; but to make this your ſole or chiefe End, of Ingaging in ſo good a Cauſe as you have in hand; is to be very mercinary; even to make a Trade of killing men for money; when you have gotten your ſalary, I feare it will be ſaid, Verely you have your Reward. Brave Gallant-ſpirits ſhould ſcorn poore low ends. Let the ends and aymes you ſet up in your hearts, of all the ſervice you performe in this Cauſe, be pure and high, as Gods glory, publike good, and diſcharge of your duties for con<g ref="char:EOLhyphen"/>ſcience ſake in what you have undertaken.</p>
+            <p>—The Mementoe's are three alſo.</p>
+            <p n="1">1 Remember (I beſeech you all) to make your peace vvith God by faith &amp; repentance for your ſins, before ye go forth to fight vvith the Enemy. Its not ſufficient to die in a good Cauſe, except you be in a good eſtate for your ſouls, if you vvould avoid the ſecond death.</p>
+            <p n="2">2 Remember to commit your life, ſoule, and whole ſelfe and all you have into Gods hands, when you goe to charge the Enemy.
+<note place="margin">Pſal. 31.13.</note> 
+               <hi>Truſt God with all,</hi> &amp; look at God as graſping you and yours in his hands, that you may wholy attend the buſineſſe in hand, <hi>and caſt the care of all other things wholy upon God.</hi> What quiet and comfort is this to a Souldier, to be able to ſay when he goes to looke his enemie (and for any thing he knows, even death that King of ter<g ref="char:EOLhyphen"/>rour alſo) in the fate, as <hi>Paul</hi> did, <hi>I know in whom I have believed,
+<note place="margin">2 Tim. 1.12.</note> and I am perſwaded he is able to keepe that which I have commit<g ref="char:EOLhyphen"/>ted to him,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>my pledge, or what I have depoſited with him untill the day of Chriſt.</hi> If you will confidingly carry your lives in your own hands, &amp; not put them ſeriouſly by faith into Gods hands and cuſtody, as <hi>Paul</hi> did earneſtly his ſoul in times of ſuffering, you may ſoone loſe and ſcatter them, or have them taken from you.</p>
+            <p n="3">3 Remember, when you got to fight in this preſent war, you car<g ref="char:EOLhyphen"/>ry foure precious Jewels in your hands committed to you.</p>
+            <p n="1">1 The <hi>Cauſe of God</hi> or his <hi>Truth,</hi> 2 The <hi>Peace of the Kingdom,</hi>
+            </p>
+            <p n="3">3 Your preſent <hi>lives,</hi> 4 Your future <hi>hopes</hi> even for eternity. What manner of perſons ought you to be, in point of godlineſſe and boldneſſe, diligence and faithfulneſſe, to diſcharge ſo great a Truſt, and be able to give a good account of them all.</p>
+            <p>Oh be vigilant and valiant, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, quit your ſelves like man, be ſtrong. The Lord of Hoſts be with you, and the God of <hi>Jacob</hi> be your refuge and your recompence.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
